@@ -3,7 +3,7 @@
 ## 常见排序算法及对应的时间复杂度和空间复杂度，稳定性；
 (https://www.zybuluo.com/Demo-Buttons/note/924349)
 
-##详解ajax
+## 详解ajax
 (https://www.zybuluo.com/Demo-Buttons/note/939487)
 
 ## 浏览器同源策略及其规避方法；跨域的实现方法；JSONP的原理；
